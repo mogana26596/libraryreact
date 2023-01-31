@@ -1,0 +1,42 @@
+body {
+  background-image: url('https://library.umaine.edu/wp-content/uploads/sites/77/2020/11/Blue-Overlay-846x290.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.input-group {
+  width:330px;
+  height:45px;
+  margin:35px auto;
+}
+button {
+  width:250px;
+  height: 50px;
+  margin:30px 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+  text-align: center;
+  padding:10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  margin-bottom: 0rem;color:rgb(7, 80, 206);
+}
+.create {
+  background-color:rgb(171, 198, 245);
+  background-size: 100% 100%;
+}
+.image {
+  background-color:rgb(255, 252, 252);
+}
+.sidebar{
+  background-color:rgb(7, 80, 206);
+  height:100%;
+}
+h3{
+  text-align: center;
+  margin:20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  color:rgb(116, 86, 5);
+}
