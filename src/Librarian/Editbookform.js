@@ -56,7 +56,7 @@ return (
 <>  
 <div class="create"> 
     <div class="image">
-       <img style={{margin:"25px 480px 10px 510px"}} src="https://i.pinimg.com/originals/10/87/da/1087dab7e789ced92e9bea078de3546b.jpg" alt="" width="300" height="70"></img>
+       <img style={{margin:"25px 480px 10px 800px"}} src="https://i.pinimg.com/originals/10/87/da/1087dab7e789ced92e9bea078de3546b.jpg" alt="" width="300" height="70"></img>
        <h2>Welcome to Library Management System</h2>
     </div>
 
